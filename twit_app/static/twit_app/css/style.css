@@ -1,0 +1,9 @@
+#inputDiv input{
+  float:left;
+}
+.parent {
+  /*display: flex;
+  flex-direction: column;
+  justify-content: center;*/
+  transform: translateY(100%);
+}
